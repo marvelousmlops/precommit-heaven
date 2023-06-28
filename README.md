@@ -1,0 +1,1 @@
+All the pre-commit hooks from our articles on [Medium](https://medium.com/marvelous-mlops/welcome-to-pre-commit-heaven-5b622bb8ebce) and [Substack](https://marvelousmlops.substack.com/p/welcome-to-pre-commit-heaven?sd=pf)
